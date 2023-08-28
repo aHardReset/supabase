@@ -1,6 +1,6 @@
 ## Resumable Uploads with Supabase Storage and Uppy
 
-This example shows how to use [Supabase Storage](https://supabase.io/docs/reference/javascript/storage) with [Uppy](https://uppy.io/) to upload files to Supabase Storage using the TUS protocol (resumable uploads).
+This example shows how to use [Supabase Storage](https://supabase.io/docs/reference/javascript/storage) with [Uppy](https://uppy.io/) to upload files to Supabase Storage using the TUS protocol (resumable uploads). You need a Pro plan or higher [to use resumable uploads](https://supabase.com/blog/storage-v3-resumable-uploads).
 
 ### Running the example
 
